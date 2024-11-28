@@ -1,0 +1,243 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "dock_id": 3,
+                "height": 949.0,
+                "position_x": 0.0,
+                "position_y": 26.0,
+                "selected_in_dock": false,
+                "title": "Main ToolBar",
+                "visible": true,
+                "width": 44.0
+              }
+            ],
+            "dock_id": 3,
+            "position": "LEFT"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "dock_id": 5,
+                    "dock_tab_bar_enabled": true,
+                    "dock_tab_bar_visible": false,
+                    "height": 594.0,
+                    "position_x": 48.0,
+                    "position_y": 26.0,
+                    "selected_in_dock": true,
+                    "title": "Viewport",
+                    "visible": true,
+                    "width": 1287.0
+                  }
+                ],
+                "dock_id": 5,
+                "position": "TOP"
+              },
+              {
+                "children": [
+                  {
+                    "dock_id": 6,
+                    "height": 351.0,
+                    "position_x": 48.0,
+                    "position_y": 624.0,
+                    "selected_in_dock": false,
+                    "title": "Console",
+                    "visible": true,
+                    "width": 1287.0
+                  },
+                  {
+                    "dock_id": 6,
+                    "dock_tab_bar_enabled": true,
+                    "dock_tab_bar_visible": true,
+                    "height": 351.0,
+                    "position_x": 48.0,
+                    "position_y": 624.0,
+                    "selected_in_dock": true,
+                    "title": "Content",
+                    "visible": true,
+                    "width": 1287.0
+                  }
+                ],
+                "dock_id": 6,
+                "position": "BOTTOM"
+              }
+            ],
+            "dock_id": 4,
+            "position": "RIGHT"
+          }
+        ],
+        "dock_id": 1,
+        "position": "LEFT"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "dock_id": 7,
+                "dock_tab_bar_enabled": true,
+                "dock_tab_bar_visible": true,
+                "height": 472.0,
+                "position_x": 1339.0,
+                "position_y": 26.0,
+                "selected_in_dock": true,
+                "title": "Stage",
+                "visible": true,
+                "width": 581.0
+              },
+              {
+                "dock_id": 7,
+                "height": 472.0,
+                "position_x": 60.0,
+                "position_y": 60.0,
+                "selected_in_dock": false,
+                "title": "Layer",
+                "visible": true,
+                "width": 581.0
+              },
+              {
+                "dock_id": 7,
+                "height": 472.0,
+                "position_x": 60.0,
+                "position_y": 60.0,
+                "selected_in_dock": false,
+                "title": "Render Settings",
+                "visible": true,
+                "width": 581.0
+              }
+            ],
+            "dock_id": 7,
+            "position": "TOP"
+          },
+          {
+            "children": [
+              {
+                "dock_id": 8,
+                "height": 473.0,
+                "position_x": 1339.0,
+                "position_y": 502.0,
+                "selected_in_dock": false,
+                "title": "Property",
+                "visible": true,
+                "width": 581.0
+              },
+              {
+                "dock_id": 8,
+                "height": 473.0,
+                "position_x": 792.0,
+                "position_y": 336.0,
+                "selected_in_dock": false,
+                "title": "My Window",
+                "visible": false,
+                "width": 581.0
+              },
+              {
+                "dock_id": 8,
+                "dock_tab_bar_enabled": true,
+                "dock_tab_bar_visible": true,
+                "height": 473.0,
+                "position_x": 1339.0,
+                "position_y": 502.0,
+                "selected_in_dock": true,
+                "title": "Spawn Primitives",
+                "visible": true,
+                "width": 581.0
+              }
+            ],
+            "dock_id": 8,
+            "position": "BOTTOM"
+          }
+        ],
+        "dock_id": 2,
+        "position": "RIGHT"
+      }
+    ],
+    "dock_id": 3358485147
+  },
+  {
+    "dock_id": 0,
+    "height": 150.0,
+    "position_x": 60.0,
+    "position_y": 60.0,
+    "selected_in_dock": false,
+    "title": "VS Code Link",
+    "visible": false,
+    "width": 300.0
+  },
+  {
+    "dock_id": 0,
+    "height": 800.0,
+    "position_x": 310.0,
+    "position_y": 104.0,
+    "selected_in_dock": false,
+    "title": "Extensions",
+    "visible": true,
+    "width": 1300.0
+  },
+  {
+    "dock_id": 0,
+    "height": 780.0,
+    "position_x": 272.0,
+    "position_y": 128.0,
+    "selected_in_dock": false,
+    "title": "Welcome Screen",
+    "visible": false,
+    "width": 1380.0
+  },
+  {
+    "dock_id": 0,
+    "height": 114.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "omni.ui.scene 2513124798896",
+    "visible": false,
+    "width": 210.8000030517578
+  },
+  {
+    "dock_id": 0,
+    "height": 0.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Options",
+    "visible": false,
+    "width": 220.0
+  },
+  {
+    "dock_id": 0,
+    "height": 0.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Image Search",
+    "visible": false,
+    "width": 400.0
+  },
+  {
+    "dock_id": 0,
+    "height": 0.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Search Options",
+    "visible": false,
+    "width": 400.0
+  },
+  {
+    "dock_id": 0,
+    "height": 0.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "BeginSearch",
+    "visible": false,
+    "width": 400.0
+  }
+]
